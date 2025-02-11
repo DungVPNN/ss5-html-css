@@ -1,0 +1,26 @@
+*{
+    background-color: lightcyan;
+    text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-shadow: 2px 1px rebeccapurple;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid aquamarine;
+}
+th{
+    padding: 15px;
+    color: white;
+    background-color: purple;
+}
+td{
+    padding: 15px;
+}
+.td2{
+    background-color: white;
+}
+
